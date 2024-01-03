@@ -1,0 +1,15 @@
+body::-webkit-scrollbar{
+display: none;
+
+}
+
+/*Denne fjerner overscroll*/
+* {
+overscroll-behavior-block: none;
+overscroll-behavior-x: none;
+
+}
+
+body {
+    background-color: lightgrey;
+}

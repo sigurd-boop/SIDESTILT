@@ -1,0 +1,8 @@
+/* MainNavigation.css */
+
+.nav-link:hover {
+  background-color: white;
+  /*opacity: 80%;*/
+  border-radius: 4px;
+  color: black;
+}
